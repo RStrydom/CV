@@ -1,0 +1,6 @@
+# Where things are
+source:     ./src
+layouts_dir:  ./src/_layouts
+
+# Conversion
+markdown:   kramdown
