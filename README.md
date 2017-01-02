@@ -1,1 +1,0 @@
-# Renier Strydom's CV

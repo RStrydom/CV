@@ -1,6 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
+v2.0 | 20110126
+License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -92,9 +92,9 @@ ul {
 }
 
 .skills ul {
-  columns: 3;
-  -webkit-columns: 3;
-  -moz-columns: 3;
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
 }
 
 
@@ -105,7 +105,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-/*	margin-top: 0.25em; */
+	/*	margin-top: 0.25em; */
 }
 
 h1,h2,h3,h4 {
@@ -123,8 +123,8 @@ h1 {
 	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
-  text-shadow: 1px 1px #fff,
-      					1px 2px #ccc;
+	text-shadow: 1px 1px #fff,
+	1px 2px #ccc;
 }
 
 h1+p {
@@ -193,20 +193,20 @@ strong {
 }
 
 .footer {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-		position: relative;
-		left: 25%;
-		margin-top: 2em;
-		margin-bottom: 7em;
-		margin-right: 0;
-		width: 65%;
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3; /* Firefox */
+	column-count: 3;
+	position: relative;
+	left: 25%;
+	margin-top: 2em;
+	margin-bottom: 7em;
+	margin-right: 0;
+	width: 65%;
 }
 
 #technical
 
 /*
 @media only screen and (max-width: 480px) {
-	make one column somehow...
+make one column somehow...
 }*/
