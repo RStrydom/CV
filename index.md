@@ -15,12 +15,16 @@ Web Developer - Open Source enthusiast.
 
 
 ## Currently
+I am a Full Stack Developer @ [SovTech](https://sov.tech). I spend most of my time working on large web applications with many intresting requirements. I get exposed to many frameworks, libraries and tools in order to get the job done. I passionately work on improving dev culture and process efficiency. I can often be found sharing and discussing resources shared amongst team members.
 
-I am a PHP developer at [FirstView](http://hellofirstview.com). I spend most of my time working on large websites and web applications with many intresting requirements. As one of the senior developers I also assist in solving problems with fellow developers and helping out when someone is stuck on something.
 
 ## Employment
 
-`2014-`
+`2016-present`
+__SovTech - Full Stack Developer__
+- React, Vue, Laravel Developer using Node, Docker and other frameworks and libraries to build out solutions for companies. Worked for major bank and involved in many aspects from agile to weekly running of DevChats - knowledge sharing. Use AWS, Digital ocean and took part in 2 hackatons hosted by SovTech.
+
+`2014-2016`
 __FirstView - Web Developer__
 - Interface and PHP developer, implementing designs into fully functional websites and web applications. From HTML, CSS to PHP and JavaScript and MySQL, developing websites from start to finish.
 
