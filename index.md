@@ -77,6 +77,11 @@ __Laerskool Randhart__
 - JavaScript
 - PHP
 - Bash / Shell
+- __Frameworks__
+- Laravel
+- React
+- React Native
+- Vue + Vuecli
 - __Libraries__
 - Bootstrap 3
 - jQuery
@@ -109,11 +114,25 @@ __Laerskool Randhart__
 - Android (v4-6)
 </div>
 
-## Projects
-Coming soon
+## Certifications && Notable Courses
 
-## Certifications
+`2018`
+__Pluralsight__
+- Building Scalable APIs with GraphQL
+- Building Applications with React and Redux in ES6
+- Redux Saga
 
+__Egg Head__
+- Higher Order Components with Functional Patterns Using Recompose
+- Build Complex Layouts with CSS Grid Layout
+- Building React Applications with Idiomatic Redux
+
+`2017`
+__Egg Head__
+- Build Your First React.js App
+- Getting Started with Redux
+
+Testing React Applications with Jest
 `2016`
 __CodeSchool__
 - Try SQL
@@ -150,6 +169,14 @@ Pearson VUE - ADB245011
 ## Presentations
 
 ### Talks
+
+`2018`
+Many DevChat presentations on topics such as:
+- CSS-Grid
+- Serverless
+- Slack Bots
+- How to contribute to Open Source
+- Automated Testing
 
 `2016`
 What makes Drupal 8 Great (Durban Drupal Meetup)
