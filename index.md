@@ -3,7 +3,7 @@ layout: cv
 title: Renier Strydom's CV
 ---
 # Renier B. Strydom
-Web Developer - Open Source enthusiast.
+Developer - Open Source enthusiast.
 
 <div id="webaddress" markdown='1'>
 <i class="fa fa-envelope"></i> <a href="mailto:me@renierstrydom.co.za">me@renierstrydom.co.za</a>
@@ -15,35 +15,26 @@ Web Developer - Open Source enthusiast.
 
 
 ## Currently
-I am a Full Stack Developer @ [SovTech](https://sov.tech). I spend most of my time working on large web applications with many intresting requirements. I get exposed to many frameworks, libraries and tools in order to get the job done. I passionately work on improving dev culture and process efficiency. I can often be found sharing and discussing resources shared amongst team members.
+I am currently a Full Stack Developer @ [Matter Industries](https://www.matter.inc/).
 
 
 ## Employment
 
-`2016-present`
-__SovTech - Full Stack Developer__
-- React, Vue, Laravel Developer using Node, Docker and other frameworks and libraries to build out solutions for companies. Worked for major bank and involved in many aspects from agile to weekly running of DevChats - knowledge sharing. Use AWS, Digital ocean and took part in 2 hackatons hosted by SovTech.
+`2020-2022`
+__Equal Experts - Full Stack Developer__
+- I was part of a global network of consultants where I was mostly involved with a prominant retailer in the UK. Made use of React, Kotlin, Kubernetets and GKE amongst other tools to facilatiate the building of high quality and highly available systems. Spent a lot of time in advanced monitoring of applications using tools like Prometheus, Grafana and New Relic.
 
-`2014-2016`
+`2018-2020`
+__SovTech - Full Stack Developer__
+- React, Vue, Laravel Developer using Node, Docker and other frameworks and libraries to build out solutions for companies. Worked for major bank and involved in many aspects from agile to weekly running of DevChats - knowledge sharing. Use of AWS, Digital ocean and took part in 2 hackathons hosted by SovTech.
+
+`2014-2017`
 __FirstView - Web Developer__
 - Interface and PHP developer, implementing designs into fully functional websites and web applications. From HTML, CSS to PHP and JavaScript and MySQL, developing websites from start to finish.
 
 `2012-2014`
 __EngNet - Web Developer__
 - Develop CMS Websites, Design Template CMS Websites, Search Engine Optimisation, Drupal Implementation, Website and Email Support
-
-`2011-2012`
-__Zaiten Web Designs - Owner / Web Developer__
-- Provided freelance web design and development under the name of Zaiten Web Designs
-
-`2010-2012`
-__Chix With Stix - Road Manager Assistant__
-- Assisted with setting up and striking down of percussion and audio equipment.
-Assisted with any additional needs, from refreshments, body guarding or any general preparations.
-
-`2009-2011`
-__Robor - PowerPoint Designer__
-- I created PowerPoint slides for the Health Department which were repeatedly displayed on screens distributed across the company grounds
 
 ## Education
 
@@ -74,13 +65,14 @@ __Laerskool Randhart__
 - HTML4 / HTML5
 - CSS2 / CSS3
 - SASS
-- JavaScript
+- JavaScript / TypeScript
 - PHP
 - Bash / Shell
+- Kotlin
+- C++
 - __Frameworks__
+- React / React Native
 - Laravel
-- React
-- React Native
 - Vue + Vuecli
 - __Libraries__
 - Bootstrap 3
@@ -88,12 +80,12 @@ __Laerskool Randhart__
 - __Developer Tools__
 - Unix tools / Command line
 - Electron
-- Atom Editor
-- Sublime Text 2/3
+- VSCode
+- Intellij
 - FileZilla
 - MySQL Workbench
-- HeidiSQL
 - __Designer Tools__
+- Figma
 - Gimp
 - Inkscape
 - Photoshop
@@ -108,13 +100,14 @@ __Laerskool Randhart__
 - Microsoft Office
 - __Operating Systems__
 - Windows (3.1, 95, 98, XP, 7, 8, 10)
-- OSX / MacOS (Lion, Mavericks, Yosemite, Sierra)
-- Linux (Ubuntu, Mint, Debian)
+- OSX / MacOS (Lion-Montery)
+- Linux (Ubuntu, Mint, Debian, Manjaro)
 - iOS (v4-7)
-- Android (v4-6)
+- Android (v4-12)
 </div>
 
 ## Certifications && Notable Courses
+
 
 `2018`
 __Pluralsight__
