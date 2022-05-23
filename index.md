@@ -22,7 +22,7 @@ I am currently a Full Stack Developer @ [Matter Industries](https://www.matter.i
 
 `2020-2022`
 __Equal Experts - Full Stack Developer__
-- I was part of a global network of consultants where I was mostly involved with a prominant retailer in the UK. Made use of React, Kotlin, Kubernetets and GKE amongst other tools to facilatiate the building of high quality and highly available systems. Spent a lot of time in advanced monitoring of applications using tools like Prometheus, Grafana and New Relic.
+- I was part of a global network of consultants where I was mostly involved with a prominent retailer in the UK. Made use of React, Kotlin, Kubernetes and GKE amongst other tools to facilitate the building of high quality and highly available systems. Spent a lot of time in advanced monitoring of applications using tools like Prometheus, Grafana and New Relic.
 
 `2018-2020`
 __SovTech - Full Stack Developer__
@@ -81,7 +81,7 @@ __Laerskool Randhart__
 - Unix tools / Command line
 - Electron
 - VSCode
-- Intellij
+- IntelliJ
 - FileZilla
 - MySQL Workbench
 - __Designer Tools__
