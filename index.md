@@ -15,7 +15,7 @@ Developer - Open Source enthusiast.
 
 
 ## Currently
-I am currently a Full Stack Developer @ [Matter Industries](https://www.matter.inc/).
+I am currently a Software Developer @ [Matter Industries](https://www.matter.inc/).
 
 
 ## Employment
